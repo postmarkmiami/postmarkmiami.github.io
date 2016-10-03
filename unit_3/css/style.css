@@ -1,11 +1,15 @@
 body {
   text-align: center;
-  background: url('images/succulent.jpg');
-  background-size: center;
-  color: #000;
-  font-family: Arial;
+  background: url(http://i.imgur.com/lN1cF7I.jpg);
+  background-size: contain
+ ;
+  background-repeat:no-repeat;
+  color: #000000;
+  font-family: Helvetica
 } p {
     font-size: 36px;
   } h1 {
-    font-size: 72px;
     
+    font-size: 75px;
+     } h5 {
+    font-size: 18px;
