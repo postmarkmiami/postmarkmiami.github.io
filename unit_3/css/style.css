@@ -1,7 +1,7 @@
 body {
   text-align: center;
   background: url(http://i.imgur.com/fVOhiDQ.jpg);
-  background-size: center;
+  background-size: 1346 px
  ;
   background-repeat:no-repeat;
   color: #FFF;
@@ -9,7 +9,7 @@ body {
 } p {
     font-size: 36px;
   } h1 {
-  	
+
     
     font-size: 75px;
      } h5 {
