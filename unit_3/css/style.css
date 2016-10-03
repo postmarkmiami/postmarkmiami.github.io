@@ -4,7 +4,7 @@ body {
   background: url("http://i.imgur.com/6L6qXNa.jpg");
   background-size: 2000px;
   background-repeat:no-repeat;
-  color: #000;
+  color: rgb(185 237 61);
   font-family: Helvetica
 } p {
     font-size: 36px;
