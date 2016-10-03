@@ -1,12 +1,15 @@
 body {
   text-align: center;
-  background: #FFF
+  background: url(http://i.imgur.com/lN1cF7I.jpg);
   background-size: cover;
   color: #000;
   font-family: Helvetica;
-
+}
+hr {
+  width: 800px;
+}
   p {
-    font-size: 100px;
+    font-size: 14px;
   }
 
   h1 {
