@@ -2,7 +2,7 @@
 
 body {text-align:center;
 background-image: url(http://i.imgur.com/Y2CqXNK.jpg);
-background-position: contain}
+background-position: stretch;}
 h1 {text-align:center;font-size: 80px;color: white; font-family: 'Oswald'; line-height: 1.5em;
  margin: 2em;
 }
