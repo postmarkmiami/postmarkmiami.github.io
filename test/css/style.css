@@ -1,3 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+
+
 body {
   text-align: center;
   background: white;
@@ -6,7 +9,7 @@ body {
 
 
 p {font-size: 36px;} 
-h1 {font-size: 36px;color: black; font-family: 'Oswald', sans-serif;}
+h1 {font-size: 36px;color: black; font-family: 'Oswald'}
 h5 {font-size: 12px; color: black;}
 ul { text-align: center;list-style-type: none;}
 
