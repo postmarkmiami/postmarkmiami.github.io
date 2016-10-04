@@ -1,5 +1,6 @@
-
-@import url(https://fonts.googleapis.com/css?family=Mystery+Quest);
+<style>
+@import 'https://fonts.googleapis.com/css?family=Oswald';
+</style>
 
 body {
   text-align: center;
@@ -7,7 +8,7 @@ body {
   background-size: 2000px;
   background-repeat;
   color: #92B828;
-  font-family:'Oswald', sans-serif;}
+  font-family: 'Oswald', sans-serif;}
 
 p {font-size: 36px;
 font-family: Georgia;} 
