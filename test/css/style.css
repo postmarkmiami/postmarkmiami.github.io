@@ -1,12 +1,12 @@
 div {
-	width: 600px;
-	height: 100px;
+	width: 100px;
+	height: 600px;
 	border: 0px
 	margin: 20px;
 }
 
 #name {
-	background:  url(http://i.imgur.com/zOQ4n3b.jpg);;
+	background:  url(http://i.imgur.com/zOQ4n3b.jpg);
 }
 
 #hex {
