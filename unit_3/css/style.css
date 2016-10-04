@@ -1,7 +1,16 @@
-
-body 
-{ text-align: center;
-	background-image: url(http://i.imgur.com/zOQ4n3b.jpg)
-	background-size:cover; }
-	
+body {
+  text-align: center;
+  background: url(http://imgur.com/dEfdtv4);
+  background-size: contain
+ ;
+  background-repeat:no-repeat;
+  color: #000000;
+  font-family: Helvetica
+} p {
+    font-size: 36px;
+  } h1 {
+    
+    font-size: 75px;
+     } h5 {
+    font-size: 18px;
 
