@@ -10,17 +10,17 @@ h1 {text-align:center;font-size: 100px;color: white; font-family: 'Oswald'; line
 h2 {text-align: center;font-color:white;font-family: "Cormorant Garamond"; color: white}
 
 a:link {
-    background-color: yellow;
+    background-color: none;
 }
 
 a:visited {
-    background-color: cyan;
+    background-color: olive;
 }
 
 a:hover {
-    background-color: lightgreen;
+    background-color: black;
 }
 
 a:active {
-    background-color: hotpink;
+    background-color: white;
 } 
