@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Cormorant+Garamond);
 
 body {text-align:center;
 background-image: url(http://i.imgur.com/64dkz60.jpg); background-size: 2000px;}
@@ -8,4 +9,4 @@ h1 {text-align:center;font-size: 100px;color: white; font-family: 'Oswald'; line
 }
 
 
-h2 {text-align: center;font-color:white;font-family: "Adobe Garamond Pro"; color: white}
+h2 {text-align: center;font-color:white;font-family: "Cormorant Garamond"; color: white}
