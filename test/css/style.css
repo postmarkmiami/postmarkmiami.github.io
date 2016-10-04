@@ -5,14 +5,16 @@ background-image: url(http://i.imgur.com/Y2CqXNK.jpg);
 background-position: stretch;
 background-size: 2500px
 background-repeat: no-repeat;}
+
 h1 {text-align:center;font-size: 80px;color: white; font-family: 'Oswald'; line-height: 1.5em;
  margin: 2em;
 }
+
 p {
 text-align: center;
 font-family: georgia, serif;	
  font-size: 18px;
  color: white
  line-height: 1.5em;
- margin: 2em;
+ margin: 2em;}
 
