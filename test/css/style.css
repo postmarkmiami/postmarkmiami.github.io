@@ -11,10 +11,9 @@ h1 {text-align:center;font-size: 100px;color: white; font-family: 'Oswald'; line
 h2 {text-align: center;font-color:white;font-family: Garamond; color: white
 	;}
 	div {
-	width: 500px;
-	height: 500px;
-	border: 5px solid black;
-	display: inline-block;
+	width: 150px;
+	height: 150px;
+	border: 2px solid black;
 	margin: 20px;}
 
 #hex {
