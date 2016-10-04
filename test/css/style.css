@@ -15,10 +15,3 @@ div {
 	border: 2px solid black;
 	margin: 20px;}
 
-#hex {
-	background: #ffffff;
-}
-
-#rgb {
-	background: rgb(255,255,255);
-}
