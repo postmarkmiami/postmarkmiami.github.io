@@ -29,7 +29,7 @@ a {
     text-decoration: none;
 }
 #rectangle{
-    width:2000px;
-    height:100px;
-    background:black;
-}
+    width:auto;
+    height:20%;
+    background:green
+    }
