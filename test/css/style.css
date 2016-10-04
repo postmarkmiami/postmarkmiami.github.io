@@ -7,6 +7,20 @@ background-image: url(http://i.imgur.com/64dkz60.jpg); background-size: 2000px;}
 h1 {text-align:center;font-size: 100px;color: white; font-family: 'Oswald'; line-height: 1.5em;
  margin: 2em;
 }
-
-
 h2 {text-align: center;font-color:white;font-family: "Cormorant Garamond"; color: white}
+
+a:link {
+    background-color: yellow;
+}
+
+a:visited {
+    background-color: cyan;
+}
+
+a:hover {
+    background-color: lightgreen;
+}
+
+a:active {
+    background-color: hotpink;
+} 
