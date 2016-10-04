@@ -1,7 +1,7 @@
 body {
   text-align: center;
   background: url(http://i.imgur.com/7kVPgb3.jpg?3);
-  background-size: contain;
+  background-size: center;
   background-repeat:no-repeat;
   color: #92B828;
   font-family: Helvetica}
