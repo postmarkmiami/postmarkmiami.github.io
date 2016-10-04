@@ -1,8 +1,8 @@
 body {
   text-align: center;
   background: url(http://i.imgur.com/7kVPgb3.jpg?3);
-  background-size: center;
-  background-repeat:no-repeat;
+  background-size: contain;
+  background-repeat;
   color: #92B828;
   font-family: Helvetica}
 
@@ -11,3 +11,5 @@ h1 {font-size: 100px;}
 h2 {font-style: italic;} 
 h5 {font-size: 36px;}
 ul { text-align: center;list-style-type: none;}
+
+
