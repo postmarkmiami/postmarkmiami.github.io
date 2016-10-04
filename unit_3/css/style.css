@@ -2,16 +2,14 @@ body {
   text-align: center;
   background: url(http://i.imgur.com/zOQ4n3b.jpg);
   background-size: 2000px
-  
+
  ;
   background-repeat:no-repeat;
   color: #000000;
   font-family: Helvetica
-} p {
-    font-size: 36px;
-  } h1 {
-    
-    font-size: 75px;
-     } h5 {
-    font-size: 18px;
+}
+
+p {font-size: 36px;} 
+h1 {font-size: 75px;} 
+h5 {font-size: 18px;}
 
