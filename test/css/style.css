@@ -1,4 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet)
+<style>
+@import 'https://fonts.googleapis.com/css?family=Oswald';
+</style>
+
 body {
   text-align: center;
   background: white;
