@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Cormorant+Garamond);
 
 body {text-align:center;
-background-image: url(http://i.imgur.com/rwdcIGP.jpg); background-size: px; background-attachment: fixed; background-repeat:no-repeat;}
+background-image: url(http://i.imgur.com/rwdcIGP.jpg); background-size: 2000px; background-attachment: fixed; background-repeat:no-repeat;}
 
 h1 {text-align:center;font-size: 100px;color: white; font-family: 'Oswald'; line-height: 1.5em;
  margin: 2em;
