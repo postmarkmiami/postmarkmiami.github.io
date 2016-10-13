@@ -11,23 +11,3 @@ background-image: url(http://i.imgur.com/rwdcIGP.jpg); background-size: 2000px; 
 h1 {text-align:center;font-size: 100px;color: white; font-family: 'Oswald'; line-height: 1.5em;
  margin: 2em;
 }
-
-a:link {
-    background-color: none;
-}
-
-a:visited {
-    background-color: olive;
-}
-
-a:hover {
-    background-color: black;
-}
-
-a:active {
-    background-color: #FFFFFF;
-} 
-a {
-    color: #FFFFFF;
-    text-decoration: none;
-}
