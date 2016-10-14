@@ -20,4 +20,6 @@ footer {text-align: center;color: white}
 img {
     position: absolute;
     clip: rect(0px,200px,200px,0px);
+    padding: 1em
+    
 }
