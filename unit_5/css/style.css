@@ -21,3 +21,5 @@ img {
     position: absolute;
     clip: rect(0px,200px,200px,0px);
 }
+
+.image_gallery img { border-radius: 50%; }
