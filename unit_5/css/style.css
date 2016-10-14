@@ -15,14 +15,3 @@ h2 {text-align: center;font-size: 52px;color:white;font-family: 'Garamond'}
 p {text-align: center;font-size: 24px;color:white;font-family: 'Garamond'}
 
 footer {text-align: center;color: white}
-
-img {
-    position: absolute;
-    clip: rect(0px,200px,200px,0px);
-    padding: 1em
-
-}
-
-div-class
-
-{object-position: padding: 2em;}
