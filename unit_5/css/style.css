@@ -17,7 +17,7 @@ p {text-align: center;font-size: 24px;color:white;font-family: 'Garamond'}
 footer {text-align: center;color: white}
 
 #rectangle{
-    width:fill;
-    height:250px;
+    width:800px;
+    height:400px;
     background:white;
 }
