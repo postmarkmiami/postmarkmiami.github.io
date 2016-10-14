@@ -13,3 +13,10 @@ h1 {text-align:center;font-size: 100px;color: white; font-family: 'Oswald'; line
  margin: 2em;}
 h2 {text-align: center;font-size: 52px;color:white;font-family: 'Garamond'}
 p {text-align: center;font-size: 24px;color:white;font-family: 'Garamond'}
+
+footer {text-align: center;color: white}
+
+img {
+    position: absolute;
+    clip: rect(0px,60px,200px,0px);
+}
