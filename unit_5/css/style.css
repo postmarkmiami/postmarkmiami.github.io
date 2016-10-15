@@ -39,7 +39,8 @@ nav {
 
 a:link {
     background-color: none;
-    text-decoration:none;
+    text-decoration:none
+    color:white;
 }
 
 a:visited {
