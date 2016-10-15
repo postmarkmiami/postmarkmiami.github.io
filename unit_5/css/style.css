@@ -36,15 +36,12 @@ nav {
     font-size: 25px
 
 }
-
 a:link {
     background-color: none;
-    text-decoration:none
-    color:white;
 }
 
 a:visited {
-    background-color: none;
+    background-color: olive;
 }
 
 a:hover {
@@ -52,5 +49,9 @@ a:hover {
 }
 
 a:active {
-    background-color: none;
+    background-color: #FFFFFF;
 } 
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
