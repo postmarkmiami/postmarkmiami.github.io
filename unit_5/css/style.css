@@ -36,6 +36,16 @@ nav {
     font-size: 25px
 
 }
+
+
+article {
+    background-color:#E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+    color:white;
+    font-size: 25px
+}
+
 a:link {
     background-color: none;
 }
