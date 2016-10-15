@@ -36,3 +36,19 @@ nav {
     font-size: 52px
 
 }
+
+a:link {
+    background-color: none;
+}
+
+a:visited {
+    background-color: none;
+}
+
+a:hover {
+    background-color: black;
+}
+
+a:active {
+    background-color: none;
+} 
