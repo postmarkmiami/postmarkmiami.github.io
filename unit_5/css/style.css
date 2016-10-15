@@ -9,12 +9,12 @@ body {text-align:center;
 background-image: url(http://i.imgur.com/rwdcIGP.jpg); background-size: 2000px; background-attachment: fixed; background-repeat:no-repeat;
 }
 
-h1 {text-align:center;font-size: 150px;color: white; font-family: 'Oswald'; line-height: .5em;
+h1 {text-align:center;font-size: 100px;color: white; font-family: 'Oswald'; line-height: 2em;
  margin: 2em;}
 h2 {text-align: center;font-size: 52px;color:white;font-family: 'Garamond'}
 p {text-align: center;font-size: 24px;color:white;font-family: 'Garamond'}
 
 footer {text-align: center;color: white}
 
-#wrapper {background-color:white; margin: 20em; 
+#wrapper {background-color:white; margin: 10em,; 
 }
