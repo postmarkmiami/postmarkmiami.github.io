@@ -38,11 +38,12 @@ nav {
 }
 
 a:link {
-    background-color: white;
+    background-color: none;
+    text-decoration:none;
 }
 
 a:visited {
-    background-color: white;
+    background-color: none;
 }
 
 a:hover {
@@ -50,5 +51,5 @@ a:hover {
 }
 
 a:active {
-    background-color: white;
+    background-color: none;
 } 
