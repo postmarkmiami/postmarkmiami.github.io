@@ -23,13 +23,13 @@ footer {text-align: center;color: white}
 
 
 header {
-    background-color: [#FFED74];
+    background-color:#FFED74;
     border: 1px black solid;
     padding: 20px;
 }
 
 nav {
-    background-color: [#E8C66A];
+    background-color:#E8C66A;
     border: 1px black solid;
     padding: 20px;
 }
