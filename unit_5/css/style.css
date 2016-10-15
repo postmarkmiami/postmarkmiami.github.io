@@ -21,6 +21,15 @@ footer {text-align: center;color: white}
 
 #about {text-align: center;}
 
-aside { 
-    display: block;
+
+header {
+    background-color: [#FFED74];
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: [#E8C66A];
+    border: 1px black solid;
+    padding: 20px;
 }
