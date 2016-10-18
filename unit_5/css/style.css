@@ -42,6 +42,12 @@ footer {
     padding: 20px;
 }
 
+#about {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
 #shop {
     background-color: #E89C6C;
     border: 1px black solid;
