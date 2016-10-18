@@ -42,29 +42,13 @@ footer {
     padding: 20px;
 }
 
-#about {
+main {
     background-color: #E89C6C;
     border: 1px black solid;
     padding: 20px;
 }
 
-#shop {
-    background-color: #E89C6C;
-    border: 1px black solid;
-    padding: 20px;
-}
 
-#wrapper {
-    background-color: #E89C6C;
-    border: 1px black solid;
-    padding: 20px;
-}
-
-h2 {
-    background-color: #E89C6C;
-    border: 1px black solid;
-    padding: 20px;
-}
 a:link {
     background-color: none;
 }
