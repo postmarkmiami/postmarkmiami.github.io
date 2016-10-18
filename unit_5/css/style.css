@@ -34,16 +34,30 @@ nav {
     padding: 20px;
     color:white;
     font-size: 25px
-
 }
 
-
-article {
-    background-color:#E89C6C;
+footer {
+    background-color: #FF957E;
     border: 1px black solid;
     padding: 20px;
-    color:white;
-    font-size: 25px
+}
+
+#about {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#shop {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#wrapper {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
 }
 
 a:link {
