@@ -33,7 +33,7 @@ footer {text-align: center;color: white}
     border: 1px black solid;
     padding: 20px;
     float: left;
-    width: 30%;
+    width: 41%;
 }
 
 #right {
@@ -41,7 +41,7 @@ footer {text-align: center;color: white}
     border: 1px black solid;
     padding: 20px;
     float: right;   
-    width: 62%;
+    width: 41%;
 }
 .clearfix:after {
     visibility: hidden;
