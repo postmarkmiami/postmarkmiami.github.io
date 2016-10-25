@@ -33,7 +33,7 @@ footer {text-align: center;color: white}
     border: none;
     padding: 20px;
     float: left;
-    width: 41%;
+    width: 25%;
 }
 
 #right {
@@ -41,7 +41,7 @@ footer {text-align: center;color: white}
     border: none;
     padding: 20px;
     float: right;   
-    width: 41%;
+    width: 25%;
 }
 .clearfix:after {
     visibility: hidden;
@@ -90,18 +90,4 @@ a:hover {
 a:active {
     background-color: #FFFFFF;
 } 
-ul {
-    list-style: none;
-    margin: 0;
-    padding: 100px;
-}
-
-li {
-  float: right;
-  width: 10%;
-  height: 6em;
-  text-align: center;
-  line-height: 6em;
-  color: #FFF;
-  background: #000;
 
