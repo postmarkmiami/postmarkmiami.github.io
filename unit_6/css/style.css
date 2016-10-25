@@ -73,23 +73,3 @@ section {
   color: #fff;
   overflow: auto;
 }
-div {
-  font-size: 1.2em;
-  width: 46%;
-  padding: 2%;
-  display: inline-block;
-}
-
-#hero {
-  display: block;
-  width: 100%;
-  margin: 0;
-  background: #fffebb;
-}
-#about {
-  float: left;
-}
-
-#services {
-  float: right;
-}
