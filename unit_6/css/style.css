@@ -64,9 +64,6 @@ a {
     color: #FFFFFF;
     text-decoration: none;
 }
-section {
-  overflow: auto;
-}
 
 #about {
 float:left;
