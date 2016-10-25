@@ -12,7 +12,7 @@ background-image: url(http://i.imgur.com/rwdcIGP.jpg); background-size: 2000px; 
 h1 {text-align:center;font-size: 100px;color: white; font-family: 'Oswald'; line-height: 1em;
  margin: 1em;}
 h2 {text-align: center;font-size: 52px;color:white;font-family: 'Garamond';}
-p {text-align: center;font-size: 25px;color:white;font-family: 'Garamond'; margin: 0em 22em;}
+p {text-align: center;font-size: 25px;color:white;font-family: 'Garamond';}
 
 footer {text-align: center;color: white}
 
@@ -29,16 +29,16 @@ footer {text-align: center;color: white}
 }
 
 #left {
-    background-color: violet;
-    border: 1px black solid;
+    background-color: white;
+    border: none;
     padding: 20px;
     float: left;
     width: 41%;
 }
 
 #right {
-    background-color: pink;
-    border: 1px black solid;
+    background-color: white;
+    border: none;
     padding: 20px;
     float: right;   
     width: 41%;
