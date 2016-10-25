@@ -66,9 +66,14 @@ a {
 }
 
 #face {
-float:left;
+float: left;
 }
 
 #about {
-    float:right;
+    float: right;
 }
+#shop {
+  display: block;
+  width: 100%;
+  margin: 0;
+  background: #000;
