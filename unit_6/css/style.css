@@ -1,0 +1,70 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Garamond);
+
+{
+	margin: 0; padding: 0;
+}
+
+body {text-align:center;
+background-image: url(http://i.imgur.com/rwdcIGP.jpg); background-size: 2000px; background-attachment: fixed; background-repeat:no-repeat;
+}
+
+h1 {text-align:center;font-size: 100px;color: white; font-family: 'Oswald'; line-height: 1em;
+ margin: 1em;}
+h2 {text-align: center;font-size: 52px;color:white;font-family: 'Garamond';}
+p {text-align: center;font-size: 25px;color:white;font-family: 'Garamond'; margin: 0em 22em;}
+
+footer {text-align: center;color: white}
+
+#wrapper {background-color:white; width: 1200px,; 
+}
+
+#about {text-align: center;}
+
+
+header {
+    background-color:#FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color:#E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+    color:white;
+    font-size: 25px
+}
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+main {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+a:link {
+    background-color: none;
+}
+
+a:visited {
+    background-color: olive;
+}
+
+a:hover {
+    background-color: none;
+}
+
+a:active {
+    background-color: #FFFFFF;
+} 
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
