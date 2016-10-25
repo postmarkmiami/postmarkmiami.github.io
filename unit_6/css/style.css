@@ -24,7 +24,7 @@ footer {text-align: center;color: white}
 
 header {
 
-    padding: 300px;
+    padding: 100px;
 }
 
 nav {
@@ -75,3 +75,20 @@ li {
   color: #FFF;
   background: #000;
 
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#right {
+    background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+}
