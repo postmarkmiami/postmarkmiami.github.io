@@ -21,6 +21,9 @@ footer {text-align: center;color: white}
 
 #about {text-align: center;}
 
+#face {
+    float: left;
+}
 
 header {
 
@@ -67,7 +70,7 @@ ul {
 }
 
 li {
-  float: left;
+  float: right;
   width: 10%;
   height: 6em;
   outline: 3px solid #FFF;
@@ -75,3 +78,4 @@ li {
   line-height: 6em;
   color: #FFF;
   background: #000;
+
