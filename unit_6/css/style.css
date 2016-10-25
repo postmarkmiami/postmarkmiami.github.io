@@ -69,5 +69,9 @@ section {
 }
 
 #about {
-float:right;
+float:left;
+}
+
+#shop {
+    float:right;
 }
