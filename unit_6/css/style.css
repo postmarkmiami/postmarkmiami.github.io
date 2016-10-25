@@ -16,7 +16,7 @@ p {text-align: center;font-size: 25px;color:white;font-family: 'Garamond'; margi
 
 footer {text-align: center;color: white}
 
-#wrapper {background-color:white; width: 1200px,; 
+#wrapper {background-color:white; width: 1200px, padding:20px; 
 }
 
 #about {text-align: center;}
