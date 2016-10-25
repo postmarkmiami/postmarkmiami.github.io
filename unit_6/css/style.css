@@ -67,3 +67,7 @@ a {
 section {
   overflow: auto;
 }
+
+#about {
+float:right;
+}
