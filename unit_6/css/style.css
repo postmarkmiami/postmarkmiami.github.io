@@ -7,34 +7,43 @@
 
 body { text-align: center;
 background-image: url(http://i.imgur.com/rwdcIGP.jpg); background-size: 2000px; background-attachment: fixed; background-repeat:no-repeat;
+font-size: 18px;
+font-family: 'Oswald', sans-serif;
 }
 
-h1 {text-align:center;font-size: 35px;color: white; font-family: 'Oswald';}
-h2 {text-align: center;font-size: 52px;color:white;font-family: 'Garamond';}
-p {text-align: center;font-size: 25px;color:white;font-family: 'Garamond';}
-
-nav {
-    font-size: 1.8em;
-    float: right;
+h1,h2 {
+	text-transform: uppercase;
+	border-bottom: 4px solid black;
+	display: inline-block;
+	font-weight: 800;
 } 
 
-nav a { 
-    text-decoration: none;
-    color: black;
-    margin: 1.8em;
-    display: inline-block;
+h1 {
+	font-size: 2em;
 }
 
+h2 {
+  font-size: 1.5em;
+  padding: .8em 0;
+  color: #fffebb;
+  border-bottom-color: #fffebb;
+}
 
+img {
+	display: block;
+	margin: 0 auto;
+  	width: 480px;
+} 
 
 ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
+	list-style: none;
+	margin: 0;
+	padding: 0;
 }
 
 li {
-  width: 20%;
+  float: left;
+  width: 50%;
   height: 6em;
   outline: 3px solid #222;
   text-align: center;
@@ -42,3 +51,45 @@ li {
   color: #000;
   background: #fff;
 }
+nav {
+	font-size: 1.8em;
+ 	float: right;
+} 
+
+nav a {	
+	text-decoration: none;
+	color: black;
+	margin: 1.8em;
+	display: inline-block;
+}
+
+section {
+  background: #222;
+  color: #fff;
+  overflow: auto;
+}
+div {
+  font-size: 1.2em;
+  width: 46%;
+  padding: 2%;
+  display: inline-block;
+}
+
+#hero {
+  display: block;
+  width: 100%;
+  margin: 0;
+  background: #fffebb;
+}
+#about {
+  float: left;
+}
+
+#services {
+  float: right;
+}
+
+footer {
+	text-align: center;
+	padding: 1em 0;
+ 	clear:both;
