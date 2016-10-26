@@ -2,65 +2,60 @@
 @import url(https://fonts.googleapis.com/css?family=Garamond);
 
 {
-	margin: 0; padding: 0;
+  margin: 0; padding: 0;
 }
 
-body { text-align: center;
+body {
 background-image: url(http://i.imgur.com/rwdcIGP.jpg); background-size: 2000px; background-attachment: fixed; background-repeat:no-repeat;
 font-size: 18px;
 font-family: 'Oswald', sans-serif;
 }
 
 h1,h2 {
-	text-transform: uppercase;
-	border-bottom: 4px solid black;
-	display: inline-block;
-	font-weight: 800;
+  text-transform: uppercase;
+  display: inline-block;
+  color: white;
 } 
 
 h1 {
-	font-size: 2em;
+  font-size: 4em;
 }
 
 h2 {
   font-size: 1.5em;
   padding: .8em 0;
-  color: #fffebb;
-  border-bottom-color: #fffebb;
+
 }
 
-img {
-	display: block;
-	margin: 0 auto;
-  	width: 480px;
-} 
+
 
 ul {
-	list-style: none;
-	margin: 0;
-	padding: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 li {
   float: left;
   width: 50%;
   height: 6em;
-  outline: 3px solid #222;
+
   text-align: center;
   line-height: 6em;
-  color: #000;
+  color: #fff;
   background: #fff;
 }
 nav {
-	font-size: 1.8em;
- 	float: right;
+  font-size: 1.8em;
+  float: right;
+  font-family: Oswald, sans-serif;
 } 
 
-nav a {	
-	text-decoration: none;
-	color: black;
-	margin: 1.8em;
-	display: inline-block;
+nav a { 
+  text-decoration: none;
+  color: white;
+  margin: 1.8em;
+  display: inline-block;
 }
 
 section {
@@ -79,7 +74,6 @@ div {
   display: block;
   width: 100%;
   margin: 0;
-  background: #fffebb;
 }
 #about {
   float: left;
@@ -90,6 +84,6 @@ div {
 }
 
 footer {
-	text-align: center;
-	padding: 1em 0;
- 	clear:both;
+  text-align: center;
+  padding: 1em 0;
+  clear:both;
