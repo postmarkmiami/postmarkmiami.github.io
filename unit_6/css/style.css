@@ -80,11 +80,7 @@ div {
   display: inline-block;
 }
 
-#hero {
-  display: block;
-  width: 100%;
-  margin: 0;
-}
+
 #about {
   float: left;
 }
