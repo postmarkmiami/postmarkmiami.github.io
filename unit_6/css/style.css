@@ -90,7 +90,10 @@ div {
 #services {
   float: right;
 }
-#floating-box2 { background: #222;}
+
+#gallery {
+  display: block;
+}
 
 footer {
   text-align: center;
