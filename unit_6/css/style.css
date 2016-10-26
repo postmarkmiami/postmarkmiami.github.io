@@ -44,7 +44,7 @@ ul {
 li {
   float: left;
   width: 50%;
-  height: 3em;
+  height: 6em;
 
   text-align: center;
   line-height: 6em;
@@ -54,7 +54,7 @@ li {
 nav {
   font-size: 1.8em;
   float: right;
-  font-family: Oswald, sans-serif;
+  font-family: 'Oswald', sans-serif;
 } 
 
 nav a { 
