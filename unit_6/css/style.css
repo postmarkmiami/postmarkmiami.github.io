@@ -5,7 +5,7 @@
 	margin: 0; padding: 0;
 }
 
-body {
+body { text-align: center;
 background-image: url(http://i.imgur.com/rwdcIGP.jpg); background-size: 2000px; background-attachment: fixed; background-repeat:no-repeat;
 }
 
@@ -85,7 +85,7 @@ footer {
 img {
     display: block;
     margin: 0 auto;
-    width: 480px;
+    width: 50px;
 } 
 
 ul {
