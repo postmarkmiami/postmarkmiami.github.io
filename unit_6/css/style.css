@@ -90,8 +90,18 @@ div {
 #services {
   float: right;
 }
+#floating-box2 {  
+  float: left;
+  width: 25%;
+  height: 6em;
+  outline: 3px solid #222;
+  text-align: center;
+  line-height: 6em;
+  color: #000;
+  background: #fff}
 
 footer {
   text-align: center;
   padding: 1em 0;
   clear:both;
+
