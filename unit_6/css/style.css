@@ -5,7 +5,7 @@
 	margin: 0; padding: 0;
 }
 
-body {text-align:center;
+body {
 background-image: url(http://i.imgur.com/rwdcIGP.jpg); background-size: 2000px; background-attachment: fixed; background-repeat:no-repeat;
 }
 
@@ -14,7 +14,17 @@ h1 {text-align:center;font-size: 100px;color: white; font-family: 'Oswald'; line
 h2 {text-align: center;font-size: 52px;color:white;font-family: 'Garamond';}
 p {text-align: center;font-size: 25px;color:white;font-family: 'Garamond';}
 
-footer {text-align: center;color: white}
+nav {
+    font-size: 1.8em;
+    float: right;
+} 
+
+nav a { 
+    text-decoration: none;
+    color: black;
+    margin: 1.8em;
+    display: inline-block;
+}
 
 #face {float: left}
 
@@ -65,29 +75,32 @@ nav {
 }
 
 footer {
-
-    padding: 20px;
-}
-
-main {
-
-    padding: 20px;
+    text-align: center;
+    padding: 1em;
+    clear:both;
 }
 
 
-a:link {
-    background-color: none;
-}
 
-a:visited {
-    background-color: olive;
-}
-
-a:hover {
-    background-color: none;
-}
-
-a:active {
-    background-color: #FFFFFF;
+img {
+    display: block;
+    margin: 0 auto;
+    width: 480px;
 } 
 
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+  float: left;
+  width: 50%;
+  height: 6em;
+  outline: 3px solid #222;
+  text-align: center;
+  line-height: 6em;
+  color: #000;
+  background: #fff;
+}
