@@ -28,7 +28,12 @@ h2 {
 
 }
 
+p {
+  font-style: 'Garamond'
+  font-size: 1em;
+  padding: .8em 0;
 
+}
 
 ul {
   list-style: none;
@@ -43,7 +48,7 @@ li {
 
   text-align: center;
   line-height: 6em;
-  color: #fff;
+  color: #000;
   background: #fff;
 }
 nav {
