@@ -9,7 +9,7 @@ body { text-align: center;
 background-image: url(http://i.imgur.com/rwdcIGP.jpg); background-size: 2000px; background-attachment: fixed; background-repeat:no-repeat;
 }
 
-h1 {text-align:left;font-size: 35px;color: white; font-family: 'Oswald';}
+h1 {text-align:center;font-size: 35px;color: white; font-family: 'Oswald';}
 h2 {text-align: center;font-size: 52px;color:white;font-family: 'Garamond';}
 p {text-align: center;font-size: 25px;color:white;font-family: 'Garamond';}
 
@@ -25,67 +25,7 @@ nav a {
     display: inline-block;
 }
 
-#face {float: left}
 
-#about {text-align: center;}
-
-}
-
-#two_column {
-    background-color: #FFB7CF;
-    border: 1px black solid;
-    padding: 20px;
-}
-
-#left {
-    background-color: black;
-    border: none;
-    padding: 10px;
-    float: left;
-    width: 25%;
-}
-
-#right {
-    background-color: black;
-    border: none;
-    padding: 10px;
-    float: right;   
-    width: 25%;
-}
-.clearfix:after {
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    content: " ";
-    clear: both;
-    height: 0;
-}
-
-header {
-
-    padding: 100px;
-}
-
-nav {
-
-    padding: 20px;
-    color:white;
-    font-size: 25px
-}
-
-footer {
-    text-align: center;
-    padding: 1em;
-    clear:both;
-}
-
-
-
-img {
-    display: block;
-    margin: 0 auto;
-    width: 80px;
-} 
 
 ul {
     list-style: none;
@@ -94,8 +34,7 @@ ul {
 }
 
 li {
-  float: left;
-  width: 50%;
+  width: 20%;
   height: 6em;
   outline: 3px solid #222;
   text-align: center;
