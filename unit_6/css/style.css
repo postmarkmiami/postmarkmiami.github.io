@@ -45,7 +45,7 @@ li {
   float: left;
   width: 25%;
   height: 6em;
-
+  outline: 3px solid #222;
   text-align: center;
   line-height: 6em;
   color: #000;
