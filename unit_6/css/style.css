@@ -24,20 +24,20 @@ h1 {
 }
 
 h2 {
-  font-style: 'Garamond'
+  font-family: 'Garamond'
   font-size: 1.5em;
   padding: .8em 0;
 
 }
 
 h3 {
-  font-style: 'Garamond'
+  font-family: 'Garamond'
   font-size: 3em;
   padding: 0em
 }
 
 p {
-  font-style: 'Garamond'
+  font-family: 'Garamond'
   font-size: 1em;
   padding: .8em 0;
 
