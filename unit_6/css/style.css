@@ -73,7 +73,7 @@ nav a {
 
 section {
   background: #222;
-  opacity:0.5;
+  opacity:0.8;
   color: #fff;
   overflow: auto;
 }
@@ -97,8 +97,6 @@ div {
   display: inline-block;
   width: 100%;
 }
-#article1 { background-color:  }
-
 
 footer {
   text-align: center;
