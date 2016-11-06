@@ -43,6 +43,7 @@ ul {
   list-style: none;
   margin: 0;
   padding: 0;
+  text-decoration:none;
 }
 
 li {
@@ -53,7 +54,7 @@ li {
   text-align: center;
   line-height: 6em;
   color: #000;
-  background: #fff;
+  background: #fff
 }
 nav {
   font-size: 1.8em;
