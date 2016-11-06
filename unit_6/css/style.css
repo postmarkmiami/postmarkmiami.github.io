@@ -5,7 +5,7 @@
 }
 
 body { text-align: center;
-background-image: url(http://i.imgur.com/rwdcIGP.jpg); background-size: 100%; background-attachment: fixed; background-repeat:no-repeat;
+background-image: url(http://i.imgur.com/rwdcIGP.jpg); background-size: 100%; background-attachment: fixed; background-repeat:repeat;
 font-size: 18px;
 font-family: 'Oswald', sans-serif;
 }
