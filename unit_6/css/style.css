@@ -104,6 +104,23 @@ footer {
   clear:both;
   text-decoration-color: white;}
 
+a:link {
+    color: none;
+}
+
+a:visited {
+    color: none;
+}
+
+a:hover {
+    color: #222;
+}
+
+a:active {
+    color: none;
+}
+
+
 
 @media only screen and (max-width: 1486px) {
   body
