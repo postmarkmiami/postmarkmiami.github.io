@@ -112,5 +112,15 @@ footer {
 nav
 {font-size:100%;}
 h1
+{font-size:4em;}
+}
+
+@media only screen and (max-width: 768px) {
+  body
+  {background-size: 800px;
+  }
+nav
+{font-size:100%;}
+h1
 {font-size:3em;}
 }
