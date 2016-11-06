@@ -92,9 +92,8 @@ div {
 }
 
 #gallery {
-  display: block;
+  display: inline-block;
   width: 100%;
-  background-color:white;
 }
 #article1 { background-color:  }
 
