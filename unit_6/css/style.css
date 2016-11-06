@@ -72,6 +72,7 @@ nav a {
 
 section {
   background: #222;
+  opacity:0.5;
   color: #fff;
   overflow: auto;
 }
