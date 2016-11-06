@@ -105,10 +105,12 @@ footer {
   text-decoration-color: white;}
 
 
-@media only screen and (max-width: 1335px) {
+@media only screen and (max-width: 1486px) {
   body
-  {background-size: 1400px;
+  {background-size: 1500px;
   }
 nav
 {font-size:10%;}
+h1
+{font-size:1em;}
 }
