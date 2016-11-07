@@ -40,10 +40,11 @@ p {
 }
 
 ul {
-  list-style: none;
+   text-decoration:none;
+   list-style: none;
   margin: 0;
   padding: 0;
-  text-decoration:none;
+ 
 }
 
 li {
@@ -119,7 +120,6 @@ a:hover {
 a:active {
     color: none;
 }
-
 
 
 @media only screen and (max-width: 1486px) {
