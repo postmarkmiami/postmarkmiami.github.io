@@ -141,8 +141,7 @@ h1
   {background-size: 800px;
   }
 nav
-{font-size:100%;
-float: none;}
+{font-size:100%;}
 h1
 {font-size:3em;}
 ul
@@ -154,4 +153,10 @@ ul
 #gallery
 {display: none;}
 }
+  li {
+    width: 80%;
+    outline-width: .5em;
+    padding: .5em;
+   height: 2em;
+    line-height: 2em;
 
