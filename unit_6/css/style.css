@@ -146,17 +146,16 @@ h1
 {font-size:3em;}
 ul
 {display: none;}
+li {
+    width: 80%;
+    outline-width: .5em;
+    padding: .5em;
+   height: 2em;
+    line-height: 2em;}
 #about
 {float: none}
 #services
 {float: none}
 #gallery
 {float: none;}
-li {
-    width: 80%;
-    outline-width: .5em;
-    padding: .5em;
-   height: 2em;
-    line-height: 2em;
-
 }
