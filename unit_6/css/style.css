@@ -147,9 +147,9 @@ h1
 ul
 {display: none;}
 #about
-{float: none}
+{display: none}
 #services
-{float: none}
+{display: none}
 #gallery
 {display: none;}
 }
