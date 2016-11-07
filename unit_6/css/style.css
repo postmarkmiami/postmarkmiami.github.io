@@ -100,7 +100,7 @@ div {
 
 #gallery {
   display: block;
-  width: 100%;
+  width: 1200px;
 }
 
 footer {
@@ -147,13 +147,13 @@ h1
 ul
 {display: none;}
 #about
-{display: none}
+{float: none}
 #services
-{display: none}
+{float: none}
 #gallery
-{display: none;}
+{float: none;}
 }
-  li {
+li {
     width: 80%;
     outline-width: .5em;
     padding: .5em;
