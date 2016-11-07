@@ -9,7 +9,7 @@ background-image: url(http://i.imgur.com/rwdcIGP.jpg); background-size: 100%; ba
 font-size: 18px;
 font-family: 'Oswald', sans-serif;
  text-decoration: none;
-  color: white;
+
 }
 
 h1,h2 {
@@ -110,11 +110,11 @@ footer {
   text-decoration-color: white;}
 
 a:link {
-    color: white;
+    color: black;
 }
 
 a:visited {
-    color: white;
+    color: black;
 }
 
 a:hover {
@@ -122,7 +122,7 @@ a:hover {
 }
 
 a:active {
-    color: white;
+    color: black;
 }
 
 
