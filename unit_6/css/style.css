@@ -73,7 +73,7 @@ nav a {
 
 section {
   background: #222;
-  opacity:.7;
+  opacity:.6;
   color: #fff;
   overflow: auto;
 }
@@ -94,7 +94,7 @@ div {
 }
 
 #gallery {
-  display: inline-block;
+  display: block;
   width: 100%;
 }
 
@@ -140,4 +140,7 @@ nav
 {font-size:100%;}
 h1
 {font-size:3em;}
-}
+#about
+{float: none}
+#services
+{float: none}
