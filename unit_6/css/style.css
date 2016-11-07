@@ -142,7 +142,12 @@ nav
 {font-size:100%;}
 h1
 {font-size:3em;}
+ul
+{display: none;}
 #about
 {float: none}
 #services
 {float: none}
+#gallery
+{display: none;}
+}
