@@ -141,7 +141,8 @@ h1
   {background-size: 800px;
   }
 nav
-{font-size:100%;}
+{font-size:100%;
+float: none;}
 h1
 {font-size:3em;}
 ul
@@ -153,3 +154,4 @@ ul
 #gallery
 {display: none;}
 }
+
