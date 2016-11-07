@@ -152,7 +152,6 @@ ul
 {float: none}
 #gallery
 {float: none;}
-}
 li {
     width: 80%;
     outline-width: .5em;
@@ -160,3 +159,4 @@ li {
    height: 2em;
     line-height: 2em;
 
+}
