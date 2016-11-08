@@ -144,8 +144,6 @@ nav
 {font-size:100%;}
 h1
 {font-size:3em;}
-ul
-{display: none;}
 
 #about
 {float: none}
@@ -166,4 +164,12 @@ h1
 ul
 {display: block;
 text-align: center;}
+li
+{width: 80%;
+    outline-width: .5em;
+    padding: .5em;
+    height: 2em;
+    line-height: 2em
+}
+}
 
