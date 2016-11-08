@@ -58,10 +58,7 @@ li {
   text-align: center;
   line-height: 6em;
   color: #000;
-  background-image: url(http://imgur.com/6L6qXNa)
-background-repeat: no-repeat;
-background-position: 0 .4em;
-padding-left: .6em;
+  background: #fff
 
 }
 nav {
@@ -83,11 +80,12 @@ section {
   background: #222;
   opacity:.6;
   color: #fff;
+
 }
 div {
   font-size: 1.2em;
-  width: 48%;
-  padding: 1%;
+  width: 46%;
+  padding: 2%;
   display: inline-block;
 }
 
@@ -98,11 +96,7 @@ div {
 
 #services {
   float: right;
-}
 
-#gallery {
-  display: block;
-  width: 1200px;
 }
 
 footer {
