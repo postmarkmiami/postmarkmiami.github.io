@@ -1,0 +1,156 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+
+{
+  margin: 0; padding: 0;
+}
+
+body { text-align: center;
+background-image: url(http://i.imgur.com/rwdcIGP.jpg); background-size: 100%; background-attachment: fixed; background-repeat:repeat;
+font-size: 18px;
+font-family: 'Oswald', sans-serif;
+ text-decoration: none;
+
+}
+
+h1,h2 {
+  text-transform: uppercase;
+  display: block;
+  color: white;
+  padding: 2em;
+
+} 
+
+h1 {
+  font-size: 6em;
+}
+
+h2 {
+  font-size: 1.5em;
+  padding: 1em 0;
+
+}
+
+h3 {
+  font-size: 3em;
+  padding: 0em
+}
+
+p {
+  font-size: 1em;
+  padding: .8em 0;
+
+}
+
+ul {
+   text-decoration:none;
+   list-style: none;
+  margin: 0;
+  padding: 0;
+ 
+}
+
+li {
+  text-decoration: none;
+  float: left;
+  width: 25%;
+  height: 6em;
+  outline: 3px solid #222;
+  text-align: center;
+  line-height: 6em;
+  color: #000;
+  background: #fff
+
+}
+nav {
+  font-size: 1.8em;
+  float: left;
+  font-family: 'Oswald', sans-serif;
+} 
+
+nav a { 
+  text-decoration: none;
+  color: white;
+  margin: 1.8em;
+  display: block;
+  padding: 18px
+  width:200px;
+}
+
+section {
+  background: #222;
+  opacity:.6;
+  color: #fff;
+  overflow: auto;
+}
+div {
+  font-size: 1.2em;
+  width: 46%;
+  padding: 2%;
+  display: inline-block;
+}
+
+
+#about {
+  float: left;
+}
+
+#services {
+  float: right;
+}
+
+#gallery {
+  display: block;
+  width: 1200px;
+}
+
+footer {
+  text-align: center;
+  padding: 1em 0;
+  clear:both;
+  text-decoration-color: white;}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: #222;
+}
+
+a:active {
+    color: black;
+}
+
+
+@media only screen and (max-width: 1486px) {
+  body
+  {background-size: 1500px;
+  }
+nav
+{font-size:100%;}
+h1
+{font-size:4em;}
+}
+
+@media only screen and (max-width: 768px) {
+  body
+  {background-size: 800px;
+  }
+nav
+{font-size:100%;}
+h1
+{font-size:3em;}
+ul
+{display: none;}
+
+#about
+{float: none}
+#services
+{float: none}
+#gallery
+{float: none;}
+}
