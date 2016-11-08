@@ -46,6 +46,7 @@ ul {
    list-style: none;
   margin: 0;
   padding: 0;
+  list-style-image: url(http://imgur.com/6L6qXNa);
  
 }
 
@@ -89,6 +90,9 @@ div {
   display: inline-block;
 }
 
+section img{
+  width: 200px;
+}
 
 #about {
   float: left;
