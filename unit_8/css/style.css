@@ -58,7 +58,10 @@ li {
   text-align: center;
   line-height: 6em;
   color: #000;
-  background: #fff
+  background-image: url(http://imgur.com/6L6qXNa)
+background-repeat: no-repeat;
+background-position: 0 .4em;
+padding-left: .6em;
 
 }
 nav {
