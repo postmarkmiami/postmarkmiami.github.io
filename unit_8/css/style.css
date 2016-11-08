@@ -165,7 +165,8 @@ ul
 {display: block;
 text-align: center;}
 li
-{width: 80%;
+{text-align: center;
+  width: 80%;
     outline-width: .5em;
     padding: .5em;
     height: 2.5em;
